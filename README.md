@@ -8,4 +8,4 @@ The board is 8 spaces long, and landing on top of another player's piece sends t
 You cannot land on a space with your own token on it.
 The rolling system is from 0 to 4, with 4 coin flips of either 0 or 1 added up.
 
-V2 plays 2 AI players against each other forever
+V2 plays 2 AI players against each other forever.
