@@ -11,7 +11,7 @@ The rolling system is from 0 to 4, with 4 coin flips of either 0 or 1 added up.
 V1 is a base version where the User has control of 1 player by clicking on the piece they would like to move.
 This version also requires a click for the AI (just a simple neural network) to make its move.
 
-V2 plays 2 AI players against each other forever
+V2 plays 2 AI players against each other forever.
 
 V3 plays 2 AI players against each other a set amount of times to see which is better.
 
